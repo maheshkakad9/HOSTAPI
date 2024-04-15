@@ -1,0 +1,66 @@
+[
+    {
+        "title" : "Software Engineer",
+        "description" : "We are seeking a highly skilled software engineer to join our dynamic team.",
+        "requirements" : ["Bachelor's degree in Computer Science or related field", "Experience with JavaScript, Node.js, and React"],
+        "location" : "San Francisco, CA",
+        "company" : "Tech Innovations Inc.",
+        "jobType" : "full-time",
+        "salary" : 100000,
+        "applicationDeadline" :  "2024-05-01"
+    },
+    {
+        "title" : "Marketing Manager",
+        "description" : "Seeking an experienced marketing manager to lead our marketing team.",
+        "requirements" : ["Bachelor's degree in Marketing or related field", "Minimum 5 years of experience in marketing"],
+        "location" : "New York, NY",
+        "company" : "Global Marketing Solutions LLC",
+        "jobType" : "full-time",
+        "salary" : 90000,
+        "applicationDeadline" :  "2024-05-10"
+    },
+    {
+        "title": "Graphic Designer",
+        "description": "We are hiring a creative graphic designer to work on various design projects.",
+        "requirements": ["Proficiency in Adobe Creative Suite", "Strong portfolio of graphic design work"],
+        "location": "Los Angeles, CA",
+        "company": "Creative Designs Agency",
+        "jobType": "part-time",
+        "salary": 50000,
+        "datePosted": "2024-04-12",
+        "applicationDeadline": "2024-05-12"
+    },
+    {
+        "title": "Customer Support Representative",
+        "description":"Join our customer support team to assist customers with inquiries and issues.",
+       "requirements": ["Excellent communication skills", "Previous experience in customer service"],
+        "location": "Chicago, IL",
+        "company": "Support Solutions Inc.",
+        "jobType": "full-time",
+        "salary": 45000,
+        "datePosted": "2024-04-08",
+        "applicationDeadline": "2024-05-08"
+    },
+      {
+        "title": "Data Analyst",
+        "description": "Looking for a data analyst to analyze and interpret data to support business decisions.",
+       "requirements": ["Bachelor's degree in Statistics, Mathematics, or related field", "Proficiency in SQL and data visualization tools"],
+        "location": "Seattle, WA",
+        "company": "Insights Analytics Company",
+        "jobType": "contract",
+        "salary": 80000,
+        "datePosted": "2024-04-18",
+        "applicationDeadline": "2024-05-18"
+      },
+      {
+        "title": "Backend Engineer",
+        "description": "Looking for backend engineer with hands on experience in expressJs and NodeJs",
+       "requirements": ["Bachelor's degree in Computer Science & Related Fields", "Expreejs"],
+        "location": "Pune, IN",
+        "company": "BackendDev",
+        "jobType": "contract",
+        "salary": 100000,
+        "datePosted": "2024-04-18",
+        "applicationDeadline": "2024-05-19"
+      }
+]
